@@ -1,0 +1,75 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Markup and web languages such as HTML, CSS and Javascript Asynchronous requests and Ajax"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Programming and scripting such as Python. Ruby and/or Perl Server architecture"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Designing",
+      "description": "I desing beautiful web interfaces with Figma and Adove XD"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Web Development",
+      "description": "I create beautiful interface with simple HTML, CSS, Javascript and also frameworks like Angular"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "WebSiteFood",
+      "description": "I have prepared this website about food online html, css and javascript languages",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "We are Funny Flakes",
+      "description": "In this websit, we are funny flakes, html, css, java, bootstrap languages are used to create it",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "CV",
+      "description": "I madev a CV using html, css, javascript languages  .................",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "description": "The first project was carried out in 2017 in the department of Kandahar University ",
+      "author_name": "Ahmad Javed Mayar",
+      "author_designation": ""
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "description": "The firs calculator I made was in the C++ programming language at Ghalib University of Herat",
+      "author_name": "Farman Ali Khan ",
+      "author_designation": ""
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "",
+      "description": "Creation of the first game project called Hero Cat in CTI  ",
+      "author_name": "Ehsan Ehrari",
+      "author_designation": ""
+    }
+  ]
+}
